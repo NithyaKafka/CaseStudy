@@ -1,0 +1,18 @@
+{
+  "type": "record",
+  "name": "RetailRecord",
+  "fields": [
+    {
+      "name": "description",
+      "type": "string"
+    },
+    {
+      "name": "quantity",
+      "type": "string"
+    },
+    {
+      "name": "unitPrice",
+      "type": "string"
+    }
+  ]
+}

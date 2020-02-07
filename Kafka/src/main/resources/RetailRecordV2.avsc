@@ -1,0 +1,22 @@
+{
+  "type": "record",
+  "name": "RetailRecordV1",
+  "fields": [
+    {
+      "name": "description",
+      "type": "string"
+    },
+    {
+      "name": "quantity",
+      "type": "long"
+    },
+    {
+      "name": "unitPrice",
+      "type": "long"
+    }
+    {
+      "name": "customerID",
+      "type": "long"
+    }
+  ]
+}
